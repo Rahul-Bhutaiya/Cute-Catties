@@ -11,7 +11,7 @@
 
 
 
-## Screenshot
+## Screenshots
 
 
 ![App Screenshot](https://github.com/Rahul-Bhutaiya/Cute-Catties/blob/main/project-screenshot/cute%20catties.png?raw=true)
